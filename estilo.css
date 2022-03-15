@@ -4,7 +4,7 @@ body{
     margin: 0;
 }
 .sla{
-    background-image: url(/projetos/projeto_1/imagens/bg-3.jpg);
+    background-image: url(imagens/bg-3.jpg);
     background-size: 100%;
     background-position: center right;
     background-repeat: no-repeat;
